@@ -156,6 +156,7 @@ See [Helpful Tools & Utilities](#helpful-tools-&-utilities) section for tools to
 
 <br />
 
+- [PennyOCR](https://github.com/imiraoui/pennyocr-mcp) - Hosted MCP server that reads PDFs and images into agent context as markdown (tables preserved) or plain text, with exact per-call cost reporting, a free cost estimator and hard spend caps (`https://mcp.pennyocr.com`).
 ## 🗄️ <a name="databases"></a>Databases
 
 > Secure database access with schema inspection capabilities. Enables querying and analyzing data while maintaining read-only safety by default.
